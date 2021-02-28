@@ -1,2 +1,9 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+#An Analysis of Kickstarter Campaigns
+
+Analyzing Kickstarter Data for Trends
+
+![Outcome by Launch Date](kickstarter-analysis/Picture1.png)
+
+![Outcome by Parent Category](kickstarter-analysis/Picture2.png)
+
+Recommend keeping production under $4000.00 and launching in May.
