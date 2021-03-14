@@ -16,7 +16,7 @@
 
   To determine the optimal launch date for the playwright's campaign we first filtered the data to include only campaigns related to theater projects. Then we sorted the campaigns according to the month of their launch. We also sorted the outcomes into three categories: Successful, Failed, and Canceled. The following chart shows the relationship between a theater campaign's launch date and the number of those campaigns which were successful:
   
-  
+  ![Outcome by Launch Date](Theater_Outcomes_Vs_Launch.png)
   
   The number of failed and canceled campaigns were fairly consistent from month to month, but a relatively large number of successful campaigns were launched in May as compared to other months. It is clear that a launch date in May will provide the best chances for a successful campaign.
 
@@ -24,7 +24,7 @@
 
   To determine the optimal funding goal for the playwright's campaign we filtered the data further to restrict it to campaigns for plays only. This provides the data for those projects which have the most similar funding needs to our playwright's. We segmented the funding goals of other campaigns in increments of $5000, then charted the percentage of successful, failed, and canceled campaigns according to those increments. The following chart demonstrates this relationship:
   
-  
+  ![Outcome by Funding Goal](Outcomes_vs_Goals.png)
   
   Those campaigns whose funding goals were less than $1000 had the greatest success rates, while those above $15000 declined to less than 50% success rates. With the exception of campaigns with goals between $35000-$45000, campaigns greater than $15000 demonstrated success rates lower than 50%. Given the playwright's stated estimate of a $10000 goal, we strongly recommend they keep the goal below $15000, however, any further reduction below this target will only increase the chances of success.
 
