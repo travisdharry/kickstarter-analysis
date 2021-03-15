@@ -32,14 +32,14 @@
 ### Challenges and Difficulties Encountered
 
   The central challenges in this project came about because of the large amount of data in the database which would not necessarily have a bearing on the outcome of our playwright's campaign. This required careful filtering to limit our analysis to only those campaigns which bore the most resemblance to that of our playwright. 
-  The second greatest challenge was in grouping the data in such a way that it could demonstrate a discernable trends. For example, our decisions to analyze outcomes based on launch month rather than, say, launch day or week or year no doubt affected the presentation of the data. The same goes for the choice to group outcomes by funding goals in increments of $5000. A larger or smaller increment might have affected the usefulness of the resultant visualization.
+  The second greatest challenge was in grouping the data in such a way that it could demonstrate a discernable trend. For example, our decisions to analyze outcomes based on launch month rather than, say, launch day or week or year affected the presentation of the data. The same goes for the choice to group outcomes by funding goals in increments of $5000. A larger or smaller increment might have affected the usefulness of the resultant visualization.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
   Our analysis of the Outcomes based on Launch Date shows that the month with the greatest number of successful campaigns launched is May. We can infer from this that a campaign launched in May will enjoy a greater likelihood of meeting its funding goal than the same campaign launched a different month.
-  Secondly, our analysis shows that the month with the fewest number of successful campaigns launched is December. From this we can conclude that a campaign launched in December will be most likely to struggle to meet its funding goals.
+  Secondly, our analysis shows that the month with the fewest number of successful campaigns launched is December. From this we can conclude that if a campaign is launched in December it will be more likely to struggle to meet its funding goals.
 
 - What can you conclude about the Outcomes based on Goals?
 
